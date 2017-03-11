@@ -23,5 +23,4 @@ public class MytestClassOfInterface implements JavaInterface8,JavaInterface8b {
 	public void doit() {
 		System.out.println("From my test class overRiden doit method");
 	}
-
 }

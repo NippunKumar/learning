@@ -5,7 +5,7 @@ public class AddMatrix {
 	public static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		System.out.println("lease enter row and column");
-		int row = sc.nextInt();
+		int row= sc.nextInt();
 		int col= sc.nextInt();
 		int a[][] = new int[row][col];
 		int b[][]= new int [row][col];
